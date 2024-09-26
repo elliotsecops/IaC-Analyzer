@@ -2,7 +2,7 @@
 
 ## Resumen
 
-El Análisis de Configuración de IaC es una herramienta diseñada para analizar archivos de configuración de Terraform HCL y realizar verificaciones de seguridad y optimización de costos. La herramienta identifica posibles problemas en las configuraciones de Terraform y los reporta con niveles de gravedad apropiados. Esto ayuda a mantener despliegues de infraestructura seguros y eficientes en términos de costos.
+Esta es una herramienta diseñada para analizar archivos de configuración de Terraform HCL y realizar verificaciones de seguridad y optimización de costos. La herramienta identifica posibles problemas en las configuraciones de Terraform y los reporta con niveles de gravedad apropiados. Esto ayuda a mantener despliegues de infraestructura seguros y eficientes en términos de costos.
 
 ## Contenido de la Tabla
 
